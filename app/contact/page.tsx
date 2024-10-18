@@ -85,7 +85,7 @@ export default function Contact() {
     <div className="max-w-2xl mx-auto">
       <h1 className="text-3xl font-bold mb-6">Contact Me</h1>
       <p className="mb-6">
-        I'm always open to new opportunities and collaborations. Feel free to reach out to me using the form below or through my social media profiles.
+      I&#39;m always open to new opportunities and collaborations. Feel free to reach out to me using the form below or through my social media profiles.
       </p>
       <form className="space-y-4" onSubmit={handleSubmit}>
         <div>
